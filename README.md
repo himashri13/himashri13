@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @himashri13
+- 👋 Hi, I’m Himasri Nandam
 - 👀 I’m interested in developing and designing websites
 - 🌱 I’m currently learning UI/UX and AWS
-- 💞️ I’m looking to collaborate on building websites
+- 👀 I’m looking to collaborate on building websites
 - 📫 How to reach me hima13n@gmail.com
 
 <!---
